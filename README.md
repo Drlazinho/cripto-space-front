@@ -1,10 +1,15 @@
- <h1 align=center>CriptoSpace - <a target="_blank" href="#" rel="nofollow">Versão 1.0</a> </h1>
- 
- <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="Css">
- <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/mesquitaoliveira/profile-card-vue3?style=for-the-badge">
+ <h1 align=center>CriptoSpace NFT - <a target="_blank" href="#" rel="nofollow">Versão 1.0</a> </h1>
+<div id="header" align="center">
+  <img src="https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png" width="100"/>
+</div> 
+
+<p align=center>
+  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="NEXTJS">
+  <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap">
+  <img src='https://img.shields.io/badge/Reactrap-100000?style=for-the-badge&logo=React&logoColor=1ea7fd&labelColor=333333&color=333333'/>
+   <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white">
  <img alt="GitHub forks" src="https://img.shields.io/github/forks/mesquitaoliveira/desafio?style=for-the-badge">
  <img alt="GitHub" src="https://img.shields.io/github/license/{user/repo}?style=for-the-badge">
-
 </p>
 
 <h1>  👥Equipe: <br></h1>
