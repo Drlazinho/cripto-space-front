@@ -1,8 +1,5 @@
-<<<<<<< HEAD
-<h1 align=center>CriptoSpace NFT - <a target="_blank" href="#" rel="nofollow">Versão 1.0</a> </h1>
-=======
+
  <h1 align=center>CriptoSpace NFT - <a target="_blank" href="https://cripto-space-front.vercel.app" rel="nofollow">Versão 1.0</a> </h1>
->>>>>>> 72b41f4ee4d2f52d681f2f2e9ed701e59f3dff70
 <div id="header" align="center">
   <img src="https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png" width="100"/>
 </div>
