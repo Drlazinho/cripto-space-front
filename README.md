@@ -1,7 +1,7 @@
- <h1 align=center>CriptoSpace NFT - <a target="_blank" href="#" rel="nofollow">Versão 1.0</a> </h1>
+<h1 align=center>CriptoSpace NFT - <a target="_blank" href="#" rel="nofollow">Versão 1.0</a> </h1>
 <div id="header" align="center">
   <img src="https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png" width="100"/>
-</div> 
+</div>
 
 <p align=center>
   <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="NEXTJS">

@@ -62,3 +62,19 @@
     flex-direction: column;
   }
 }
+.buttonwallet {
+  background: -webkit-linear-gradient(
+    18deg,
+    rgba(24, 200, 255, 1),
+    rgba(147, 63, 254, 1) 100%
+  );
+  border: none;
+  border-radius: 10px;
+}
+.buttonwallet:hover {
+  background: -webkit-linear-gradient(
+    18deg,
+    rgb(120, 43, 147),
+    rgb(6, 73, 83) 100%
+  );
+}
