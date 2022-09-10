@@ -15,8 +15,12 @@
 
 <h1>  👥Equipe: <br></h1>
 <uL> 
-	<li> <a href="https://www.linkedin.com/in/aldamenezes/">Alda Aparecida Menezes Ferreira  <br></li>
-	<li> <a href="https://www.linkedin.com/in/ismael-mesquita"> Ismael de Mesquita Freire <br></li>
+	<li> <a href="https://www.linkedin.com/in/aldamenezes/">Alda Aparecida Menezes <br></li>
+	<li> <a href="https://github.com/[user]/"> Daniel Santos<br></li>
+	<li> <a href="https://github.com/mesquitaoliveira/"> Ismael Mesquita<br></li>
+	<li> <a href="https://github.com/[user]/"> Lucas Matheus<br></li>
+	<li> <a href="https://github.com/[user]/"> Lázaro<br></li>
+	<li> <a href="https://github.com/[user]/"> Lázaro<br></li>
 </ul>
 
 <h1 align=center>Dapp NFT CriptoSpace<br></h1>
