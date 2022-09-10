@@ -20,7 +20,6 @@
 	<li> <a href="https://github.com/mesquitaoliveira/"> Ismael Mesquita<br></li>
 	<li> <a href="https://github.com/[user]/"> Lucas Matheus<br></li>
 	<li> <a href="https://github.com/[user]/"> Lázaro<br></li>
-	<li> <a href="https://github.com/[user]/"> Lázaro<br></li>
 </ul>
 
 <h1 align=center>Dapp NFT CriptoSpace<br></h1>
