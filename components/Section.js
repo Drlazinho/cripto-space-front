@@ -38,7 +38,7 @@ export default function Section() {
         <Card>
           <CardImg
             alt="Card image cap"
-            src="https://avatars.githubusercontent.com/u/96148130?v=4"
+            src="https://avatars.githubusercontent.com/u/92008139?v=4"
             top
             width="100%"
           />
